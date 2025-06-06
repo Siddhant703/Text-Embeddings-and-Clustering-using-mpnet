@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+Pillow~=8.3.2
+python-dotenv
+pandas~=1.3.3
+numpy~=1.21.2
+sentence-transformers==2.1.0
+starlette
+pydantic~=1.8.2
+torch==1.8.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html
+umap-learn
+hdbscan
+hyperopt
+Bayesian
+ftfy
+
+#install requirements for the model
+#pip3 install -r requirements.txt
